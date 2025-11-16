@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my [Homepage](https://TemenosMistral.github.io)!
 
-<!--
-**TemenosMistral/TemenosMistral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- I have been a byr(student at BUPT) since 2021 and I'm Currently a M.E. Student @ BUPT.
+- I received my B.S. degree from Beijing University of Posts and Telecommunications in 2025.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Interests
+- Cryptography and mathematics, quite hard for me.
+- Adversarial attack. See related work in my homepage.
+
+### Hobbies
+- 🎮️JRPG. Especially Final Fantasy series and Octopath Traveler series.
+- 🍳Cooking? 
+- ♟️Chess and 🏓table tennis.
+
+Sadly there is not much to display on my homepage :\(
+Thanks for your visit!
