@@ -1,8 +1,8 @@
 # Welcome to my [Homepage](https://TemenosMistral.github.io)!
 
 ## About me
-- I have been a byr(student at BUPT) since 2021 and I'm Currently a M.E. Student @ BUPT.
-- I received my B.S. degree from Beijing University of Posts and Telecommunications in 2025.
+- I have been a byr(student at BUPT) since 2021 and I'm currently a M.E. Student @ BUPT.
+- I received my B.S. degree from School of Mathematical Science, Beijing University of Posts and Telecommunications in 2025.
 
 ## Interests
 
@@ -12,7 +12,7 @@
 
 ### Hobbies
 - 🎮️JRPG. Especially Final Fantasy series and Octopath Traveler series.
-- 🍳Cooking? 
+- 🍳Cooking? Enjoy finding good food and then trying to make it myself.
 - ♟️Chess and 🏓table tennis.
 
 Sadly there is not much to display on my homepage :\(
