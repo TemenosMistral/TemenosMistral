@@ -3,6 +3,7 @@
 ## About me
 - I have been a byr(student at BUPT) since 2021 and I'm currently a M.E. Student @ BUPT.
 - I received my B.S. degree from School of Mathematical Science, Beijing University of Posts and Telecommunications in 2025.
+- BI1WYY is my callsign for amateur radio.
 
 ## Interests
 
