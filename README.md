@@ -11,7 +11,7 @@
 - Adversarial attack. See related work in my homepage.
 
 ### Hobbies
-- 📡 Amateur Radio. Licensed Class B operator in China :)
+- 📡Amateur Radio. Licensed Class B operator in China :)
 - 🍳Cooking? Enjoy finding good food and then trying to make it myself.
 - ♟️Chess and 🏓table tennis.
 
